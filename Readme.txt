@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks For Watching This Template
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Author : Matchbox X Bootstrap
+License : https://bootstrapmade.com/license
+Diatas undang-undang bootstrapmade.com
